@@ -1,0 +1,88 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+#nav-manu{
+    background: rgb(241, 91, 3);
+}
+.nav-manu {
+    width: 1170px;
+    margin: auto;
+    display:flex;
+}
+
+.logo {
+    width: 270px;
+    color: white;
+   font-size: 20px;
+}
+
+.page{
+    width:900px;
+}
+.page ul{
+    list-style: none;
+    text-align: right;
+    padding-top: 8px;
+}
+.page ul li{
+    display: inline-block;
+    padding: 5px;
+    text-align: right;
+}
+.page ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+   
+}
+.page ul li a:hover{
+    text-decoration: underline;
+}
+
+/*  */
+.flex-contant{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    
+
+}
+.half-width h1{
+    font-size: 65px;
+    font-weight: 700;
+    color: rgb(77, 75, 75);
+    font-family: ;
+}
+.first-contant{
+    margin: 9%;
+}
+.half-width h3{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(105, 105, 105);
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 40px;
+}
+.half-width h1 span{
+    color: rgb(245, 149, 94);
+}
+.half-width a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 25px 40px;
+    background-image: linear-gradient(to right, orange, rgb(238, 70, 28));
+    border-radius: 50px;
+    color: white;
+    font-weight: 700;
+   font-size: 20px;
+   font-weight: 400;
+}
+.half-width a:hover{
+    background-image: linear-gradient(to right, rgb(238, 70, 28), orange);
+}
