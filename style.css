@@ -171,4 +171,7 @@ body{
     color: rgb(121, 121, 121);
     font-family: 'Roboto', sans-serif;
 }
+.img img{
+    border-radius: 15px;
+}
     
