@@ -58,7 +58,7 @@ body{
     font-size: 65px;
     font-weight: 700;
     color: rgb(77, 75, 75);
-    font-family: ;
+   
 }
 .first-contant{
     margin: 9%;
@@ -92,7 +92,8 @@ body{
 .section2{
     display: flex;
     background-image: url(images/male/shapes/7.png);
-    padding-top: 40px;
+    padding-top: 45px;
+    margin-bottom: 100px;
     
 }
 .image img{
@@ -113,3 +114,59 @@ body{
     font-size: 20px;
     color: rgb(129, 129, 129);
 }
+/*  */
+
+.recipie{
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
+}
+.recipie h2{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(58, 57, 57);
+}
+
+.recipie p{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(26, 25, 25);
+}
+.R-style{
+    font-size: 60px;
+    color: rgb(255, 169, 10);
+}
+/*  */
+.item-list-width{
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+.box-shadow{
+    box-shadow: 10px 10px 10px 10px  rgb(141, 141, 141);
+    width: 27%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 3%;
+    border-radius: 35px;
+    
+}
+.box-shadow img{
+    width: 350px;
+    
+}
+.box-content h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+.box-content p{
+    font-size: 25px;
+    font-weight: 400;
+    color: rgb(121, 121, 121);
+}
+    
