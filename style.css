@@ -157,7 +157,7 @@ body{
     margin-bottom: 25px;
 }
 .box-shadow{
-    box-shadow: 8px 8px 8px 8px  rgb(141, 141, 141);
+    box-shadow: 8px 8px 8px 8px  rgb(192, 192, 192);
     width: 27%;
     text-align: center;
     padding-top: 20px;
@@ -184,5 +184,36 @@ body{
 }
 .img img{
     border-radius: 15px;
+}
+#youtube-instagram{
+    padding-bottom: 110px;
+}
+#contant{
+    padding-bottom: 110px;
+}
+.contant{
+    width: 85%;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 8px 8px 8px 8px rgb(187, 186, 186);
+    border-radius: 15px;
+    margin-top: 20px;
+    
+}
+.youtube-instagram{
+    width: 30%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    
+    
+}
+.youtube-instagram h1{
+    font-size: 50px;
+    font-family: roboto;
+}
+.youtube-instagram p{
+    font-size: 20px;
 }
     
