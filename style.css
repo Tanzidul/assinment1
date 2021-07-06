@@ -216,3 +216,20 @@ body{
     font-size: 20px;
 }
     
+.footer{
+    background-color: black;
+    padding: 80px 80px;
+    text-align: center;
+}
+.footer h2{
+    font-size: 35px;
+    color: rgb(65, 64, 64);
+}
+.footer h2 span{
+    color: rgba(255, 123, 0, 0.918);
+}
+.footer p{
+    color: white;
+    font-weight: 300;
+    padding-bottom: 40px;
+}
