@@ -81,7 +81,7 @@ body{
     background-image: linear-gradient(to right, orange, rgb(238, 70, 28));
     border-radius: 50px;
     color: white;
-    font-weight: 700;
+
    font-size: 20px;
    font-weight: 400;
 }
@@ -95,7 +95,7 @@ body{
     background-image: url(images/male/shapes/7.png);
     padding-top: 45px;
     margin-bottom: 100px;
-    
+
 }
 .image img{
     width: 40%;
@@ -114,6 +114,17 @@ body{
 .about-me p{
     font-size: 20px;
     color: rgb(129, 129, 129);
+    margin-bottom: 100px;
+}
+.about-me a{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+    padding: 25px 40px;
+    background-image: linear-gradient(to right, orange, rgb(238, 70, 28));
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 50px;
 }
 /*  */
 
